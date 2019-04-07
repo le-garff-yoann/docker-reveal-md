@@ -1,5 +1,5 @@
 # docker-reveal-md
 
-![](https://gitlab.com/le-garff-yoann/docker-reveal-md/badges/master/build.svg)
+[![pipeline status](https://gitlab.com/le-garff-yoann/docker-reveal-md/badges/master/pipeline.svg)](https://gitlab.com/le-garff-yoann/docker-reveal-md/pipelines)
 
 Include `node` and `reveal-md`.
